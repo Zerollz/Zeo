@@ -1,0 +1,3 @@
+[submodule "Zeo/vendor/spdlog"]
+	path = Zeo/vendor/spdlog
+	url = https://github.com/gabime/spdlog
